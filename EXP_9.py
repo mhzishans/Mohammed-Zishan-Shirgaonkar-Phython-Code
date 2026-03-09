@@ -1,4 +1,4 @@
-print("251A015,10|02|26"}
+print("251A015,10|02|26")
 n=int(input("Enter No\n"))
 fact=1
 
