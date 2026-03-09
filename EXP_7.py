@@ -1,0 +1,8 @@
+print("251A015,10|02|26")
+students={}
+n=int(input("Enter The No Of Students\n"))
+for i in range(1,n+1):
+    Name=input("Enter Name")
+    Attendance=input("Enter Attendance")
+    students[i]={"Name":Name,"Attendance":Attendance}
+print(students)   
